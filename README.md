@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on BTS Support and Customer Care Specialist
-🌱 I’m currently learning JavaScript, Python, Node.js
+🌱 I’m also learning JavaScript, Python, Node.js
 👯 I’m looking to collaborate on StartUps companies, free-lance and indie proyects who trust on my skills and my attitude!
 🤔 I’m looking for help with all related with PHP, MySQL and backEnd
 💬 Ask me about anything! I will answer with total honesty
