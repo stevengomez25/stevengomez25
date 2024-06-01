@@ -6,3 +6,6 @@
 💬 Ask me about anything! I will answer with total honesty
 😄 Pronouns: He/Him
 ⚡ Fun fact: I have a lot of experience with English language, because I worked as a Customer Service Rep for almost 3 years to companies like Target, Walmart, Comcast and Affirm.
+⏲️You can Reach me at
+  Monday-Tuesday 8am-9pm CT
+  Wednesday-Sunday 7pm-10pm CT
