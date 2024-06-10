@@ -9,3 +9,5 @@
 ⏲️You can Reach me at
   Monday-Tuesday 8am-9pm CT
   Wednesday-Sunday 7pm-10pm CT
+  ![image](https://github.com/stevengomez25/stevengomez25/assets/105175222/b2af2c60-5b4f-4ef5-a4e9-7cd3b136c845)
+
