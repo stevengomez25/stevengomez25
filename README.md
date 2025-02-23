@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome visitor!👋
 🔭 I’m currently working on BTS Support and Customer Care Specialist
 🌱 I’m also learning JavaScript, Python, Node.js
 👯 I’m looking to collaborate on StartUps companies, free-lance and indie proyects who trust on my skills and my attitude!
