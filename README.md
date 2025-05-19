@@ -29,5 +29,5 @@ If you're looking for someone who can build, learn fast, and adapt to any challe
 ⏲️You can Reach me at
   Monday-Tuesday 8am-9pm CT
   Wednesday-Sunday 7pm-10pm CT
-                              ![image](https://github.com/stevengomez25/All-my-projects/blob/main/projects_react/projects/blogger/my-studies-blog/src/RedSSRTojiArt1.gif)
+  ![image](https://github.com/stevengomez25/All-my-projects/blob/main/projects_react/projects/blogger/my-studies-blog/src/RedSSRTojiArt1.gif)
 
