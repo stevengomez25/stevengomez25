@@ -7,15 +7,8 @@ I work confidently with the MERN stack (MongoDB, Express.js, React, Node.js) and
 
 🛠 Tech I Use Daily:
 
-Languages: JavaScript, TypeScript, Python
-
-Frontend: React, Tailwind CSS, Bootstrap 5
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Tools: Postman, VS Code, Git/GitHub, NPM
+Tecnologies:
+<img src="{https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white}" />
 
 Extras: Advanced Excel, Power Automate, REST APIs
 
